@@ -1,7 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import Usuario from './componentes/Usuario';
-import { useState } from 'react';
 import FormularioInicioSesion from './componentes/FormularioInicioSesion';
 import ContadorFuncional from './componentes/ContadorFuncional';
 // import ContadorClass from './componentes/ContadorClass';
