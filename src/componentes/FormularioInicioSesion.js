@@ -46,7 +46,7 @@ const FormularioInicioSesion = (props) => {
                 <input 
                     type="password" 
                     name="contrasena" 
-                    id="usuario"
+                    id="contraseña"
                     value={contrasena}
                     onChange={onChange}
                     className={styles.input}
